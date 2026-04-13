@@ -1,0 +1,27 @@
+# 忽略临时文件
+*.log
+*.tmp
+
+# 忽略模型文件
+*.pt
+*.pth
+*.h5
+*.ckpt
+
+# 忽略数据集
+*.csv
+*.json
+*.npz
+*.npy
+*.zip
+*.tar
+*.gz
+
+# 忽略缓存和中间结果
+__pycache__/
+*.pkl
+*.pickle
+*.db
+*.sqlite
+*.pyc
+

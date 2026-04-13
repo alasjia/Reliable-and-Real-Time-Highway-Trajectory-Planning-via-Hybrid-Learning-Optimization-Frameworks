@@ -1,0 +1,2 @@
+Neural Network Model used in this experiment:
+"/home/lab/luyujia/projects_alasjia/Hybrid_Highway_Trajectory_Planning/H_HTP/velocity_prediction_training/Training_Results/Results20260213/vel_pred_VN_100ep.pth"
