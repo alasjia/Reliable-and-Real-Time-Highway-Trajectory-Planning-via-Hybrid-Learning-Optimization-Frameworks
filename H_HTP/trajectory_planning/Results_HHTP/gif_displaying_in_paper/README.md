@@ -3,10 +3,10 @@ Neural Network Model used in this experiment:
 
 
 Scenario 1:
-![Scenario1](executing_path_rec55_case700.mp4)
+![Scenario1](executing_path_rec55_case700.gif)
 
 Scenario 2:
-![Scenario2](executing_path_rec54_case1190.mp4)
+![Scenario2](executing_path_rec54_case1190.gif)
 
 Scenario 3:
-![Scenario3](executing_path_rec54_case1092.mp4)
+![Scenario3](executing_path_rec54_case1092.gif)
